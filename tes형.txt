@@ -7,3 +7,7 @@ sgbjtury
 etasghuyre
 wtasfgdhfut
 yerwtg
+
+head태그 - html문서를 정의하는 내용을 작성하는 태그
+
+body 태그 - 
